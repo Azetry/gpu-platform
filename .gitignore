@@ -1,2 +1,5 @@
 # environment
 */.env
+
+# others
+.DS_Store
